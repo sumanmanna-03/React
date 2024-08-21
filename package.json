@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is namaste react project",
+  "main": "app.js",
+  "scripts": {
+    "test": "react, namaste"
+  },
+  "keywords": [
+    "suman"
+  ],
+  "author": "Suman Manna",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
